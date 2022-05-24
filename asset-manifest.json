@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.fe0d9e07.css",
+    "main.js": "/React-Portfolio/static/js/main.3b035bf7.js",
+    "static/js/787.12e7f510.chunk.js": "/React-Portfolio/static/js/787.12e7f510.chunk.js",
+    "static/media/E-Commerce-Backend.gif": "/React-Portfolio/static/media/E-Commerce-Backend.e88a76f6bb50a2192b74.gif",
+    "static/media/Commscope6-DataCentre3.jpg": "/React-Portfolio/static/media/Commscope6-DataCentre3.85dcf4698f13be5abb0a.jpg",
+    "static/media/weather.jpg": "/React-Portfolio/static/media/weather.f03e6da4cc63b181291b.jpg",
+    "static/media/working-day.jpg": "/React-Portfolio/static/media/working-day.8f7fae1d55a849f23c95.jpg",
+    "static/media/cms.jpg": "/React-Portfolio/static/media/cms.405bdeb64803e034cd96.jpg",
+    "static/media/readme.jpg": "/React-Portfolio/static/media/readme.6acaeb28cf780607733b.jpg",
+    "static/media/Profile1.jpg": "/React-Portfolio/static/media/Profile1.06bbf517e1cf5a235376.jpg",
+    "static/media/quiz1.jpg": "/React-Portfolio/static/media/quiz1.b4d5a4fc1f1bc1a77014.jpg",
+    "static/media/techHirers.png": "/React-Portfolio/static/media/techHirers.fc206af6a8a764e4690c.png",
+    "static/media/PwScreen.png": "/React-Portfolio/static/media/PwScreen.090655241e3daf755ccc.png",
+    "static/media/notetaker2.gif": "/React-Portfolio/static/media/notetaker2.7f00c6332771067285b8.gif",
+    "static/media/wp6350658.jpg": "/React-Portfolio/static/media/wp6350658.b0900cde656313fb0fc0.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.fe0d9e07.css.map": "/React-Portfolio/static/css/main.fe0d9e07.css.map",
+    "main.3b035bf7.js.map": "/React-Portfolio/static/js/main.3b035bf7.js.map",
+    "787.12e7f510.chunk.js.map": "/React-Portfolio/static/js/787.12e7f510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0d9e07.css",
+    "static/js/main.3b035bf7.js"
+  ]
+}
