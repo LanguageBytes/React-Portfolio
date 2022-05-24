@@ -1,9 +1,9 @@
 # <p align = "center"> React Portfolio </p>
 
-Link to deployed site:
+Link to deployed site: https://languagebytes.github.io/React-Portfolio/ 
 
 <p align = "center"> 
-<img src="./src/react.gif"/> 
+<img src="react.gif"/> 
 </p>
 
 ## Description
