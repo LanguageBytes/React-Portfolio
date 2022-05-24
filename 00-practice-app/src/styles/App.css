@@ -42,6 +42,7 @@ section {
 
 footer {
     height: 100%;
+    background-image: url("../components/assets/wp6350658.jpg");
     background-size: 500%;
     background-repeat: no-repeat;
     padding-bottom: 60px;
@@ -233,8 +234,8 @@ color:white;
 /* Projects */
 
 .project-card {
-  width: 350px;
-  height: 500px;
+  width: 500px;
+  height: 600px;
   box-shadow: 5px 5px 20px rgb(241, 240, 240);
 }
 
