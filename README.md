@@ -1,8 +1,9 @@
 # <p align = "center"> React Portfolio </p>
+
 Link to deployed site:
 
 <p align = "center"> 
-<img src=""/> 
+<img src="react.gif"/> 
 </p>
 
 ## Description
