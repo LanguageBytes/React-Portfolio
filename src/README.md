@@ -3,7 +3,7 @@
 Link to deployed site:
 
 <p align = "center"> 
-<img src="react.gif"/> 
+<img src="./src/react.gif"/> 
 </p>
 
 ## Description
